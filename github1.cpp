@@ -11,13 +11,7 @@ int main()
 	double i=12345.6789;
 	signed short int j=-23456;
 	signed long long int k=-9223372036854775808;
-	
-	
-	
-	
-   
-    
-    
+
     printf("Enter your full name: ");
     scanf("%s", name);
     printf("Your short name is %s.\n", name);
